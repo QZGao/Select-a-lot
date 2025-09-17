@@ -1,6 +1,8 @@
 # Select-a-lot
 Similar to Cat-a-lot, this gadget allows you to select a lot of images on a category page, and copy them to clipboard.
 
+Project page: [Select-a-lot](https://commons.wikimedia.org/wiki/User:SuperGrey/gadgets/Select-a-lot)
+
 ## Usage
 
 ### Install on Wikimedia Commons
